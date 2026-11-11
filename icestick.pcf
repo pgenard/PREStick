@@ -1,0 +1,8 @@
+# iCEstick HX1K-TQ144
+
+# 12 MHz oscillator
+set_io clk 21
+
+# USB UART
+set_io uart_txd 8
+set_io uart_rxd 9
